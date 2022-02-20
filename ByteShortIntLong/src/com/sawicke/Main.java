@@ -38,5 +38,6 @@ public class Main {
         int myTotal = (myMinIntValue / 2);
         byte myNewByteValue = (byte) (myMinByteValue / 2); // cast to a byte
         short myNewShortValue = (short) (myMinShortValue / 2); // cast to a short
+
     }
 }
